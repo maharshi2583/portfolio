@@ -373,6 +373,11 @@ section .title::after {
     margin-bottom: 10px;
 }
 
+.skill-ul {
+    margin-left: 1rem;
+    list-style-type: circle;
+}
+
 .skills .skills-content .left p {
     text-align: justify;
 }
